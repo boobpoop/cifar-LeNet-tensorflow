@@ -1,3 +1,5 @@
+# flow chart
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/flow_chart.png)
 # loss excel
 ![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/loss_excel.png)
 # loss graph
