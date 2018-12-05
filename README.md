@@ -1,5 +1,5 @@
 # flow chart
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/cifar-cnn.png)
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/cifar-cnn1.png)
 # train table
 ![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/train_table.png)
 # train graph
