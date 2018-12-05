@@ -1,11 +1,10 @@
 # flow chart
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/flow_chart.png)
-# loss excel
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/loss_excel.png)
-# loss graph
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/loss_graph.png)
-# accuracy excel
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/accuracy_excel.png)
-# accuracy graph
-![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/image/accuracy_graph.png)
-
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/cifar-cnn.png)
+# train table
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/train_table.png)
+# train graph
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/train_graph.png)
+# test table
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/test_table.png)
+# test graph
+![loss_excel](https://github.com/boobpoop/cifar-cnn/blob/master/cifar-cnn/image/test_graph.png)
